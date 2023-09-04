@@ -1,6 +1,4 @@
 # Patrones-De-Diseno
-Algunos ejemplos de Patrones de Diseño.
-
 
 ## Patrón Singleton:
 Definición: Garantiza que una clase tenga solo una instancia y proporciona un punto de acceso global a esa instancia.
