@@ -1,7 +1,8 @@
-# Patrones-De-Diseno
+# Patrones De Diseño !!!!
 
 ## Patrón Singleton:
 Definición: Garantiza que una clase tenga solo una instancia y proporciona un punto de acceso global a esa instancia.
+   - ![Singleton](https://img.shields.io/badge/Pattern-Singleton-blue)
 
 ## Patrón Factory Method:
 Definición: Define una interfaz para crear un objeto, pero permite que las subclases alteren el tipo de objetos que se crearán.
